@@ -198,7 +198,7 @@ layout: fact
 
 # Boring Staff
 
---- 
+---
 
 # Customizations
 
@@ -252,13 +252,39 @@ layout: fact
 # Demo Time
 
 ---
+layout: image-left
+image: ./hosted-power.png
+imageColClass: ml-0 my-0 bg-center
+---
+
+# My Challange
+
+<v-clicks>
+
+<Arrow x1="270" y1="200" x2="240" y2="160" color="red" />
+
+🗓 April 1st 2025
+
+🖥 3 CPUs
+
+💾 8GB RAM
+
+🗄 100GB SSD
+
+🌐 [domaine200.fr](https://domaine200.fr/)
+
+Powered By [HostedPower](https://hosted-power.com)
+
+</v-clicks>
+
+---
 layout: fact
 ---
 # Thank You!
 
 Access slides here:
 
-[slides.ecom.dev/mm25fl](https://slides.ecom.dev/mm25fl)
+[slides.ecom.dev/mm25fr](https://slides.ecom.dev/mm25fr)
 
 Need Help?
 [ivan@ecom.dev](mailto:ivan@ecom.dev)
